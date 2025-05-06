@@ -33,6 +33,7 @@
   📘 Vontade de aprender e evoluir constantemente  
 
 🛠️ **Tecnologias**:
+
   🌐 HTML5, CSS3  
   🐍 Python | 🐘 PHP | ⚡ JavaScript  
   🛢️ MySQL | 🔥 Firebase
