@@ -1,4 +1,3 @@
-<h1 align="center">👨‍💻 WILKER OLIVEIRA DOS SANTOS</h1>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5806ec25-692c-447d-a8b8-8493e2ca4258" width="1000px"alt="Typing SVG"/>
