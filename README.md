@@ -3,12 +3,6 @@
   <img src="https://github.com/user-attachments/assets/fc02de21-6131-41cc-8d06-22fc3558b794"/>
 </p>
 
-
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4DA5C9&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+buscando+evoluir+e+criar+soluções+reais!" alt="Typing SVG">
-</p>
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/2a/61/2a/2a612aa5b8d7a4e5ccff15f3a9c7f0f3.gif" width="1000px" alt="Banner Profissional"/>
 </p>
