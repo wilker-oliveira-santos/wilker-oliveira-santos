@@ -1,92 +1,76 @@
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5806ec25-692c-447d-a8b8-8493e2ca4258" width="1000px"alt="Typing SVG"/>
+  <img src="https://github.com/user-attachments/assets/fc02de21-6131-41cc-8d06-22fc3558b794"/>
 </p>
 
 
 ---
-
-## 🎓 Sobre Mim
-
-👋 Olá! Sou **estudante de Análise e Desenvolvimento de Sistemas** no **IFSP – Campus Jacareí**, com ótimo desempenho acadêmico e uma grande paixão por aprender e evoluir constantemente.
-
-✨ Tenho conhecimentos sólidos em tecnologias como **HTML5, CSS3, Python, PHP, JavaScript, MySQL e Firebase**, além de habilidades interpessoais que me destacam em trabalhos em equipe e projetos colaborativos.
-
----
-
-## 🎓 Formação Acadêmica
-
-🎓 **Técnico em Informática para Internet**  
-📍 *ETEC de Santa Isabel/SP*  
-📅 Conclusão: 2024 | ⏳ 3.000 horas
-
-💻 **Tecnólogo em Análise e Desenvolvimento de Sistemas** *(Em andamento)*  
-📍 *IFSP – Campus Jacareí/SP*  
-📅 Previsão de conclusão: 2027 | ⏳ 2.400 horas  
-
----
-
-## 📊 Estatísticas GitHub
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4DA5C9&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+buscando+evoluir+e+criar+soluções+reais!" alt="Typing SVG">
+</p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wilker-oliveira-santos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilker-oliveira-santos&theme=tokyonight&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=9" alt="Top Langs"/>
+  <img src="https://i.pinimg.com/originals/2a/61/2a/2a612aa5b8d7a4e5ccff15f3a9c7f0f3.gif" width="1000px" alt="Banner Profissional"/>
 </p>
 
 ---
 
-## 💡 Habilidades & Competências
+## 💼 Sobre Mim
 
-✅ Determinação e persistência  
-✅ Informática básica  
-✅ Empatia e trabalho em equipe  
-✅ Comunicação interpessoal  
-✅ Familiaridade com sistemas e tecnologias de TI  
-✅ Vontade de aprender e evoluir constantemente  
+Sou **estudante de Análise e Desenvolvimento de Sistemas** no **IFSP – Jacareí**, apaixonado por **tecnologia, inovação e aprendizado contínuo**.  
+Busco criar soluções práticas com **Python, JavaScript, PHP e Firebase**, sempre priorizando clareza e boas práticas de desenvolvimento.
 
 ---
 
-## 🛠️ Tecnologias
+## 🧠 Tecnologias e Ferramentas
 
-<!-- GIF DE FUNDO E BADGES -->
-<div align="center">
-  <img src="https://i.pinimg.com/originals/8e/3b/96/8e3b9684a36aaae97bb7a94b74eb9c23.gif" width="800" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-4DA5C9?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-4DA5C9?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4DA5C9?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4DA5C9?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-4DA5C9?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4DA5C9?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-4DA5C9?style=for-the-badge&logo=firebase&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wilker-oliveira-santos&show_icons=true&theme=transparent&title_color=4DA5C9&icon_color=4DA5C9&text_color=cccccc&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilker-oliveira-santos&layout=compact&theme=transparent&title_color=4DA5C9&text_color=cccccc&hide_border=true&custom_title=Linguagens+Mais+Usadas" alt="Top Langs"/>
+</p>
+
+---
+
+## 🏆 Destaques
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wilker-oliveira-santos&theme=onestar&no-frame=true&column=4&title_color=4DA5C9" alt="Troféus GitHub"/>
+</p>
+
+---
+
+## 🌐 Contato
+
+<p align="center">
+  📍 Santa Isabel - SP  
+  <br>
+  📧 <a href="mailto:wilkeroliveirasantos00@gmail.com">wilkeroliveirasantos00@gmail.com</a>  
   <br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</div>
+  <a href="https://wilker-oliveira-santos.github.io/link-profile/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfólio-4DA5C9?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 🤝 Informações Adicionais
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wilker-oliveira-santos&color=4DA5C9&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações de Perfil"/>
+</p>
 
-🎗️ **Voluntário** nos Projetos Sociais da **Igreja Internacional Caminho da Paz**  
-📚 **Curso de Empregabilidade** - 4 horas  
-
----
-
-## 🏅 Certificações
-
-🥇 **Medalha de Ouro** - Olimpíada Brasileira de Astronomia (OBA) - 2016  
-📜 **Curso de Empregabilidade** - 4 horas  
-
----
-
-## 🚀 Objetivo
-
-Busco oportunidades que me permitam aplicar meus conhecimentos técnicos e crescer profissionalmente, contribuindo com soluções inovadoras e eficientes para o mundo da tecnologia! 💻🌟
-
----
-
-## 📫 Contato
-
-📍 Santa Isabel - São Paulo/SP  
-📧 [wilkeroliveirasantos00@gmail.com](mailto:wilkeroliveirasantos00@gmail.com)  
-🔗 [Meu Link Profile](https://wilker-oliveira-santos.github.io/link-profile/)
-
----
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8e/3b/96/8e3b9684a36aaae97bb7a94b74eb9c23.gif" width="280px"/>
+</p>
