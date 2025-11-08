@@ -7,7 +7,7 @@
   <img src="https://i.pinimg.com/originals/2a/61/2a/2a612aa5b8d7a4e5ccff15f3a9c7f0f3.gif" width="1000px" alt="Banner Profissional"/>
 </p>
 
----[
+---
 
 ## 💼 Sobre Mim
 
