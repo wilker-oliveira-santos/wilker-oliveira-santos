@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 WILKER OLIVEIRA DOS SANTOS</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=4C80F1&center=true&vCenter=true&width=1000&height=50&lines=Desenvolvedor+FullStack+em+formação;Apaixonado+por+tecnologia+e+inovação;Sempre+buscando+evoluir+e+aprender+mais!" alt="Typing SVG"/>
+  <img src="https://github.com/user-attachments/assets/5806ec25-692c-447d-a8b8-8493e2ca4258" width="1000px"alt="Typing SVG"/>
 </p>
 
 
