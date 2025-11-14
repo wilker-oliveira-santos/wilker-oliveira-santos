@@ -12,7 +12,7 @@
 ## 💼 Sobre Mim
 
 Sou **estudante de Análise e Desenvolvimento de Sistemas** no **IFSP – Jacareí**, apaixonado por **tecnologia, inovação e aprendizado contínuo**.  
-Busco criar soluções práticas com **Python, JavaScript, PHP e Firebase**, sempre priorizando clareza e boas práticas de desenvolvimento.
+Busco criar soluções práticas com **Python, JavaScript e PHP**, sempre priorizando clareza e boas práticas de desenvolvimento.
 
 ---
 
