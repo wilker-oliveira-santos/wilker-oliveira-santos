@@ -33,7 +33,6 @@ Busco criar soluções práticas com **Python, JavaScript e PHP**, sempre priori
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wilker-oliveira-santos&show_icons=true&theme=transparent&title_color=4DA5C9&icon_color=4DA5C9&text_color=cccccc&hide_border=true&locale=pt-br" alt="GitHub Stats"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilker-oliveira-santos&layout=compact&theme=transparent&title_color=4DA5C9&text_color=cccccc&hide_border=true&custom_title=Linguagens+Mais+Usadas" alt="Top Langs"/>
 </p>
 
