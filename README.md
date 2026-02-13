@@ -1,7 +1,5 @@
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/205787303/548857260-48281822-7b4f-4aca-94b9-c5572ef5a9b0.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzA5MDQwMjUsIm5iZiI6MTc3MDkwMzcyNSwicGF0aCI6Ii8yMDU3ODczMDMvNTQ4ODU3MjYwLTQ4MjgxODIyLTdiNGYtNGFjYS05NGI5LWM1NTcyZWY1YTliMC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIxMlQxMzQyMDVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYmE5YjZhNDQxYjVmYTgxMzQwZmNiYWU3ZjM2MjdmYmEzMTUwY2FkMGI5ZWNiZjE3OTZmMmM4MGE1MmRhYmM5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8wTokYYOm2OOvUEhgdsfn5rpU9aBJOJ4kxCGo8UeqUU"/>
-</p>
+![Image](https://github.com/user-attachments/assets/48281822-7b4f-4aca-94b9-c5572ef5a9b0)
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/2a/61/2a/2a612aa5b8d7a4e5ccff15f3a9c7f0f3.gif" width="1000px" alt="Banner Profissional"/>
