@@ -14,19 +14,25 @@ Busco criar soluções práticas com **Python, JavaScript e PHP**, sempre priori
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+<div align="center">
+  <h2>🧠 Tecnologias e Ferramentas</h2>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-4DA5C9?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-4DA5C9?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-4DA5C9?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-4DA5C9?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-4DA5C9?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4DA5C9?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-4DA5C9?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-4DA5C9?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-4DA5C9?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
 
----
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-4DA5C9?style=for-the-badge&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-4DA5C9?style=for-the-badge&logo=python&logoColor=white"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/PHP-4DA5C9?style=for-the-badge&logo=php&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4DA5C9?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Firebase-4DA5C9?style=for-the-badge&logo=firebase&logoColor=white"/>
+  </p>
+</div>
 
 ## 📊 Estatísticas
 
