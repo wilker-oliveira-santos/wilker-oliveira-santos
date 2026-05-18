@@ -71,3 +71,5 @@ Busco criar soluções práticas com **Python, JavaScript e PHP**, sempre priori
 <p align="center">
   <img src="https://i.pinimg.com/originals/8e/3b/96/8e3b9684a36aaae97bb7a94b74eb9c23.gif" width="280px"/>
 </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=4DA5C9&height=110&section=footer" width="100%" /> </p> <div align="center"> <sub>Desenvolvido por Wilker Oliveira 🚀</sub> </div>
